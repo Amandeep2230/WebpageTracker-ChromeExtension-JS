@@ -1,6 +1,6 @@
 # WebpageTracker-ChromeExtension-JS
 
-Welcome to the lead tracking chrome extension developed using JavaScript and chrome's tab API. 
+Welcome to the lead tracking chrome extension developed using Vanilla JavaScript and chrome's tab API. 
 
 In order to install the extension on your chrome browser follow the steps provided below: 
 1. Develop/clone the repo on your local machine. 
